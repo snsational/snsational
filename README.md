@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @snsational
-- 👀 I’m interested in Matte Black objects, coding and pixelart
-- 🌱 I’m currently learning Mobile Apps Development, at ISTEC
-- 💞️ I’m looking to collaborate on anything videogame development related
-- 📫 How to reach me email: sn_sational@hotmail.com, instagram: @sn_sational
+# Hello, my name is sN_ !  
+
+Mobile Apps Development student, at <b>ISTEC, Portugal</b>. 
+
+
+🖤 I’m interested in Matte Black objects, coding and pixelart
+🌱 I’m currently working at something cool!
+
+# <h3>📫 How to reach me:</h3>
+[Email](mailto:sn_sational@hotmail.com)<p>
+[Instagram](https://www.instagram.com/sn_sational)
 
 <!---
 snsational/snsational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
