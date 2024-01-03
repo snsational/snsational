@@ -8,7 +8,7 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
 
 # <h3>📫 How to reach me:</h3>
 [Email](mailto:sn_sational@hotmail.com)<p>
-[Instagram](https://www.instagram.com/sn_sational)
+[Instagram](https://www.instagram.com/im_snsational)
 
 <!---
 snsational/snsational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
