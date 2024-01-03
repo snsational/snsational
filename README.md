@@ -4,7 +4,11 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
 
 
 🖤 I’m interested in Matte Black objects, coding and pixelart
-🌱 I’m currently working at something cool!
+<p></p>
+🌱 Using <b>Unity</b> as the Game Engine for a personal project!
+<p></p>
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
