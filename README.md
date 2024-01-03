@@ -5,8 +5,9 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
 
 🖤 I’m interested in Matte Black objects, coding and pixelart
 <p></p>
-🌱 Using <b>Unity</b> as the Game Engine for a personal project!
+:zap: Using <b>Unity</b> as the Game Engine for a personal project, as well as <b>Procreate</b> for Art and Animation
 <p></p>
+
 
 
 
