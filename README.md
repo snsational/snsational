@@ -9,7 +9,7 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
 <p></p>
 
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -23,11 +23,15 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-<p></p>
-<h3>📫 How to reach me :</h3>
+
+
+---
+
+### 📫 How to reach me :
 <a href="mailto:sn_sational@hotmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/envelope-open.svg" title="Email"  alt="Email" width="40" height="40"/></a>&nbsp;
 <a href="https://www.instagram.com/im_snsational"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" title="Instagram"  alt="Instagram" width="40" height="40"/></a>&nbsp;
 
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snsational&theme=dark&background=000000)](https://git.io/streak-stats)
 
