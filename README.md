@@ -28,6 +28,10 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
 <a href="mailto:sn_sational@hotmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/envelope-open.svg" title="Email"  alt="Email" width="40" height="40"/></a>&nbsp;
 <a href="https://www.instagram.com/im_snsational"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" title="Instagram"  alt="Instagram" width="40" height="40"/></a>&nbsp;
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snsational&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!---
 snsational/snsational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
