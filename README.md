@@ -7,7 +7,6 @@ Mobile Apps Development student, at <b>ISTEC, Portugal</b>.
 <p></p>
 :zap: Using <b>Unity</b> as the Game Engine for a personal project, as well as <b>Procreate</b> for Art and Animation
 <p></p>
-:zap: Currently developing a small app for the <b>FlipperZero</b>
 
 
 ---
