@@ -1,6 +1,8 @@
 # Hello, my name is sN_ !  
 
-Mobile Apps Development student, at <b>ISTEC, Portugal</b>. 
+Web and Mobile Apps Developer 
+
+<b>ISTEC</b>. 
 
 
 🖤 I’m interested in Matte Black everything, coding and pixelart
