@@ -5,10 +5,11 @@ Web and Mobile Apps Developer
 <b>ISTEC</b>. 
 
 
-🖤 I’m interested in Matte Black everything, coding and pixelart
+🖤 I’m interested in Matte Black everything, coding, pixelart and aerosol painting
 <p></p>
 :zap: Using <b>Unity</b> as the Game Engine for a personal project, as well as <b>Procreate</b> for Art and Animation
 <p></p>
+:zap: Developing in <b>Dart</b> with Flutter for Trash4Goods
 
 
 ---
